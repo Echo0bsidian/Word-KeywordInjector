@@ -57,6 +57,11 @@ This tool is meant to help you improve your resume or tag documents more effecti
 It doesn’t change what people see—it just adds invisible text that software can detect. 
 Always use it ethically and follow the rules of any platform you’re submitting to.
 
+⚠️ Disclaimer
+This tool is provided as-is for educational and professional enhancement purposes. 
+While it may assist with resume optimization and keyword alignment, we make no guarantees regarding job application outcomes,
+interview success, or system compatibility. Use at your own discretion, and always ensure your resume meets the standards and expectations of the platforms or employers you submit to.
+
 ## 📄 License
 
 This project is licensed under the MIT License. You’re free to use and modify it.
